@@ -1,5 +1,5 @@
 <h1>Hi, I'm Justin! <br/> </h1>
-<h2> Unity-Developer, Gameplay- and Tool-Programmer, <br/> VFX-Artist and Level-Designer </h2>
+<h2> Unity-Developer, Gameplay- and Tool-Programmer, <br/> VFX-Artist, Level-Designer </h2>
 
 <h2>👨‍💻 Unity Projects:</h2>
 
