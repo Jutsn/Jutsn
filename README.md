@@ -4,19 +4,19 @@
 <h2>👨‍💻 Unity Projects:</h2>
 
 - <b>Gameplay-Programming</b>
-  - [3D-Platformer/Shooter](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [2D-Platformer](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [3D-Platformer/Shooter](https://github.com/Jutsn/Plant-Game-Macromedia)
+  - [2D-Platformer with Mini-Game](https://github.com/Jutsn/Betty)
 - <b>Tool-Programming</b>
-  - [Dialog-Tool](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Dialog-Tool](https://github.com/jcaonr/VINNIE-Protoyp-MVP)
 
 <h2>👨‍💻 Godot Projects:</h2>
   
-  - [Grid Movement](https://github.com/joshmadakor1/Algorithms-Practice)  
+  - [Grid Movement]()  
   
 <h2>👨‍💻 VFX:</h2>
 
-  - [Game-VFX](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Movie-VFX](https://github.com/joshmadakor1/Algorithms-Practice) 
+  - [Game-VFX]()
+  - [Movie-VFX]() 
 
 <h2>📺 itch.io game pages</h2>
 
