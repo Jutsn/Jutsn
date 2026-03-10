@@ -11,7 +11,7 @@
 
 <h2>👨‍💻 Godot Projects:</h2>
   
-  - [Grid Exercise](https://github.com/Jutsn/Grid-Exercise)  
+  - [Grid Movement Exercise](https://github.com/Jutsn/Grid-Exercise)  
   
 <h2>👨‍💻 VFX:</h2>
 
