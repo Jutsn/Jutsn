@@ -5,7 +5,9 @@
 
 - <b>Gameplay-Programming</b>
   - [3D-Platformer/Shooter](https://github.com/Jutsn/Plant-Game-Macromedia)
-  - [2D-Platformer with Mini-Game](https://github.com/Jutsn/Betty)
+  - [2D-Platformer with Mini-Games](https://github.com/Jutsn/Betty)
+  - [2D Shoot'em-up](https://github.com/Jutsn/Space-Invader-Project)
+  - and some more
 - <b>Tool-Programming</b>
   - [Dialog-Tool](https://github.com/jcaonr/VINNIE-Protoyp-MVP)
 
