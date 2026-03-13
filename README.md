@@ -16,8 +16,8 @@
   
 <h2>👨‍💻 VFX:</h2>
 
-  - [Game-VFX](https://www.youtube.com/watch?v=yIcs8VchW3w)
-  - [Movie-VFX](https://www.youtube.com/watch?v=SHhe_7FUf3s)
+  - [Game-VFX: Show Reel](https://www.youtube.com/watch?v=yIcs8VchW3w)
+  - [Movie-VFX: Short Movie](https://www.youtube.com/watch?v=SHhe_7FUf3s)
 
 <h2>👨‍💻 Level-Design:</h2>
 
