@@ -1,5 +1,5 @@
 <h1>Hi, I'm Justin! <br/> </h1>
-<h2> Unity-Developer <br/> Gameplay- and Tool-Programmer <br/> Technical Game/Level Designer, VFX-Artist  </h2>
+<h2> Unity-Developer <br/> Gameplay- and Tool-Programmer <br/> Technical Game/Level Designer <br/> VFX-Artist  </h2>
 
 <h2>👨‍💻 Unity Projects:</h2>
 
@@ -14,18 +14,6 @@
   
   - [Grid Movement Exercise](https://github.com/Jutsn/Grid-Exercise)  
   
-<h2>👨‍💻 VFX:</h2>
-
-  - [Game-VFX: Show Reel](https://www.youtube.com/watch?v=yIcs8VchW3w)
-  - [Movie-VFX: Short Movie](https://www.youtube.com/watch?v=SHhe_7FUf3s)
-
-<h2>👨‍💻 Level-Design:</h2>
-
-- 
-
-<h2>📺 itch.io game pages</h2>
-
-- [Bimp.ly-Light in the Dark](https://anni-ui.itch.io/bimply-light-in-the-dark)
 
 
 <h2> 🤳 Connect with me:</h2>
