@@ -8,7 +8,7 @@
   - [2D-Platformer with Mini-Games](https://github.com/Jutsn/Betty)
   - [2D Shoot'em-up](https://github.com/Jutsn/Space-Invader-Project)
 - <b>Tool-Programming</b>
-  - [Narrative Scripting Tool](https://github.com/jcaonr/VINNIE-Protoyp-MVP)
+  - [Narrative Scripting Tool](https://github.com/Jutsn/Unity-Narrative-Scripting-Tool)
 
 <h2>👨‍💻 Godot Projects:</h2>
   
